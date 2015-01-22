@@ -1,0 +1,25 @@
+{
+  "name": "stylus-transform",
+  "version": "0.0.0",
+  "description": "Provides tools to transform the AST for stylus files and output the result",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kpdecker/stylus-transform.git"
+  },
+  "keywords": [
+    "stylus",
+    "css",
+    "preprocessor",
+    "ast"
+  ],
+  "author": "Kevin Decker <kpdecker@gmail.com> (http://incaseofstairs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kpdecker/stylus-transform/issues"
+  },
+  "homepage": "https://github.com/kpdecker/stylus-transform"
+}
